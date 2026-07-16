@@ -15,5 +15,5 @@
 ## Установка и запуск
 ```bash
 git clone https://github.com/Jo1ann/Turtle-Dash
-cd Turtle-dash
+cd Turtle-Dash
 python "turtledashgame.py"
