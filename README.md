@@ -16,4 +16,4 @@
 ```bash
 git clone https://github.com/ТВОЙ_НИК/repo-name.git
 cd repo-name
-python "Turtle dash.py"
+python "turtledashgame.py"
